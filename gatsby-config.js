@@ -4,7 +4,15 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
+    `gatsby-transformer-remark`,
     "gatsby-plugin-image",
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/pages`,
+      },
+    },
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
