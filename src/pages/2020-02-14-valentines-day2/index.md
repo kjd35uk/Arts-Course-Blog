@@ -1,9 +1,9 @@
 ---
 path: '/valentines-day'
 date: '2020-02-14'
-title: 'Valentine's Day'
+title: "Valentine's Day"
 author: 'Kirstie Davidson'
-description: 'This is my Valentine's Day blog!'
+description: 'This is my very first blog of 2020!'
 ---
 
 Here is my main content.

@@ -1,9 +1,9 @@
 ---
 path: '/april-fools-day'
-date: '2020-04-01'
-title: 'April Fools Day'
+date: '2020-01-01'
+title: "April Fool's Day"
 author: 'Kirstie Davidson'
-description: 'This is my April Fools' Day blog post!'
+description: 'This is my very first blog of 2020!'
 ---
 
 Here is my main content.
